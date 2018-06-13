@@ -1,7 +1,6 @@
 'use strict'
 
 const request = require('request-promise')
-const _ = require('lodash')
 const randomize = require('randomatic')
 const fs = require('fs')
 const path = require('path')

@@ -1,0 +1,167 @@
+{
+  "docs": [
+    {
+      "_id": "b092c2445dceb5439075dadd2511e570",
+      "name": "Amoxcilin Dispersible",
+      "minLevel":0,
+      "maxLevel":0,
+      "reorderLevel":0
+    },
+    {
+      "_id": "b092c2445dceb5439075dadd2511e70f",
+      "name": "Zinc/ORS",
+      "minLevel":0,
+      "maxLevel":0,
+      "reorderLevel":0
+    },
+    {
+      "_id": "b092c2445dceb5439075dadd2511eabc",
+      "name": "Artemisinin Combination Therapy (ACT)",
+      "minLevel":0,
+      "maxLevel":0,
+      "reorderLevel":0
+    },
+    {
+      "_id": "b092c2445dceb5439075dadd2511f6ad",
+      "name": "Paracetamol",
+      "minLevel":0,
+      "maxLevel":0,
+      "reorderLevel":0
+    },
+    {
+      "_id": "product-type:0.05ml",
+      "name": "0.05ml Syring",
+      "minLevel":75,
+      "maxLevel":299,
+      "reorderLevel":120
+    },
+    {
+      "_id": "product-type:0.5ml",
+      "name": "0.5ml Syring",
+      "minLevel":577,
+      "maxLevel":2307,
+      "reorderLevel":923
+    },
+    {
+      "_id": "product-type:2ml",
+      "name": "2ml Syring",
+      "minLevel":4,
+      "maxLevel":15,
+      "reorderLevel":6
+    },
+    {
+      "_id": "product-type:5ml",
+      "name": "5ml Syring",
+      "minLevel":9,
+      "maxLevel":37,
+      "reorderLevel":15
+    },
+    {
+      "_id": "product-type:bcg",
+      "name": "Bacillus Calmette–Guérin",
+      "minLevel":74,
+      "maxLevel":299,
+      "reorderLevel":120
+    },
+    {
+      "_id": "product-type:bcg-dil",
+      "name": "BCG Diluent",
+      "minLevel":4,
+      "maxLevel":15,
+      "reorderLevel":6
+    },
+    {
+      "_id": "product-type:hepb",
+      "name": "Hepatitis B",
+      "minLevel":34,
+      "maxLevel":135,
+      "reorderLevel":54
+    },
+    {
+      "_id": "product-type:im",
+      "name": "Immunization Card",
+      "minLevel":0,
+      "maxLevel":0,
+      "reorderLevel":0
+    },
+    {
+      "_id": "product-type:ipv",
+      "name": "Inactivated Polio Vaccine",
+      "minLevel":37,
+      "maxLevel":150,
+      "reorderLevel":60
+    },
+    {
+      "_id": "product-type:ms",
+      "name": "Measles",
+      "minLevel":46,
+      "maxLevel":187,
+      "reorderLevel":74
+    },
+    {
+
+
+      "_id": "product-type:ms-dil",
+      "name": "Measles Diluent",
+      "minLevel":5,
+      "maxLevel":19,
+      "reorderLevel":8
+    },
+    {
+      "_id": "product-type:opv",
+      "name": "Oral Polio Vaccine",
+      "minLevel":152,
+      "maxLevel":609,
+      "reorderLevel":244
+    },
+    {
+      "_id": "product-type:ors",
+      "name": "ORS",
+      "minLevel":0,
+      "maxLevel":0,
+      "reorderLevel":0
+    },
+    {
+      "_id": "product-type:pcv",
+      "name": "PCV",
+      "minLevel":102,
+      "maxLevel":408,
+      "reorderLevel":163
+    },
+    {
+      "_id": "product-type:penta",
+      "name": "Penta",
+      "minLevel":116,
+      "maxLevel":462,
+      "reorderLevel":185
+    },
+    {
+      "_id": "product-type:s/box",
+      "name": "Safety Box",
+      "minLevel":7,
+      "maxLevel":29,
+      "reorderLevel":12
+    },
+    {
+      "_id": "product-type:td",
+      "name": "Tetanus Diphtheria",
+      "minLevel":143,
+      "maxLevel":570,
+      "reorderLevel":228
+    },
+    {
+      "_id": "product-type:yf",
+      "name": "Yellow Fever",
+      "minLevel":53,
+      "maxLevel":209,
+      "reorderLevel":84
+    },
+    {
+      "_id": "product-type:yf-dil",
+      "name": "Yellow Fever Diluent",
+      "minLevel":5,
+      "maxLevel":19,
+      "reorderLevel":8
+    }
+  ]
+}
