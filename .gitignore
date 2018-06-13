@@ -67,3 +67,7 @@ typings/
 .idea
 
 user-list-*
+resources/
+!resources/common-health-names.json
+!resources/facilities.csv
+!resources/hf-clean-up-data.json
