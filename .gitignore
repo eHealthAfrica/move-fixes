@@ -66,6 +66,7 @@ typings/
 # IDE
 .idea
 by-id.json
+locations.json
 user-list-*
 resources/
 !resources/common-health-names.json
